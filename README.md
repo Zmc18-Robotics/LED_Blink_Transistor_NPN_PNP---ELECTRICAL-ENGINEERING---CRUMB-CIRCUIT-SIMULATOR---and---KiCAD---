@@ -7,4 +7,35 @@ Controllable LED blink with transistors
 
 <img width="475" height="323" alt="image" src="https://github.com/user-attachments/assets/8690c71b-61be-4a83-9b5f-02b35e692a2e" />
 
-<img width="430" height="288" alt="image" src="https://github.com/user-attachments/assets/06318ffe-7c0f-488f-b905-b43d13e687bc" />
+
+<img width="462" height="319" alt="sc2" src="https://github.com/user-attachments/assets/a29c7fb9-cffb-4d76-8517-e0192201bd7e" />
+
+
+<img width="686" height="328" alt="image" src="https://github.com/user-attachments/assets/fa2a7f16-885d-452f-8866-75d27f85711c" />
+Here you can edit the resistor to control the frequency
+
+# Electrical Circuit :
+
+<img width="320" height="340" alt="circuit (8)" src="https://github.com/user-attachments/assets/6880051e-92d9-4843-bc3f-a874391f26d1" />
+
+---
+
+# Description
+
+LED blink using Transistor systems, NPN and PNP
+
+in the picture we can see 2 transistors, the left one is PNP and the right on in NPN. you can see all in the circuit and the picture, to control the frequency, you can change the resistor ohms or just change the capacitor
+
+Here the materials :
+- Transistor NPN x1
+- Transistor PNP x1
+- Resistor 1000Ω x1
+- Resistor 1000000 x1
+- Resistor 10Ω x1 ( you can use 2Ω, or 20Ω, or anything, its editable for the frequency, more smaller ohms = more faster frequency )
+- LED pin x1 ( you can add again or modify it if you want )
+- Capacitor 2.2µF x1
+
+---
+
+Have fun~ ^^
+
