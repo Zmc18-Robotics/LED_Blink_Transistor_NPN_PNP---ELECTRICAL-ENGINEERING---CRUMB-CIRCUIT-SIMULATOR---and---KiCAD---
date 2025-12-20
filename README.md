@@ -20,7 +20,8 @@ Here you can edit the resistor to control the frequency
 
 # Electrical Circuit :
 
-<img width="320" height="340" alt="circuit (8)" src="https://github.com/user-attachments/assets/6880051e-92d9-4843-bc3f-a874391f26d1" />
+<img width="320" height="340" alt="circuit (9)" src="https://github.com/user-attachments/assets/e123a5eb-0adf-42c5-be27-7e1ec3aa4ca1" />
+
 
 ---
 
