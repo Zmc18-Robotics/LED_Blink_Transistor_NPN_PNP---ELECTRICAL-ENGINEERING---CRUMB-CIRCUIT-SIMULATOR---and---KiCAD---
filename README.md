@@ -39,7 +39,9 @@ Here the materials :
 - Resistor 10Ω x1 ( you can use 2Ω, or 20Ω, or anything, its editable for the frequency, more smaller ohms = more faster frequency )
 - LED pin x1 ( you can add again or modify it if you want )
 - Capacitor 2.2µF x1
-
+- Breadboard x1
+- Power Supply x1
+  
 ---
 
 Have fun~ ^^
