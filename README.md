@@ -1,4 +1,4 @@
-# LED_Blink Transistor NPN PNP - ELECTRICAL-ENGINEERING - CRUMB CIRCUIT SIMULATOR - KiCAD
+# LED_Blink Transistor NPN PNP - ELECTRICAL ENGINEERING - CRUMB CIRCUIT SIMULATOR - KiCAD
 Controllable LED blink with transistors
 
 ---
