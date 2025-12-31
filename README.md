@@ -13,18 +13,19 @@ Controllable LED blink with transistors
 
 Here you can edit the resistor to control the frequency
 
-<img width="328" height="332" alt="image" src="https://github.com/user-attachments/assets/832a40b0-259e-4c6f-82d9-7f50af7b5cf4" />
+<img width="377" height="395" alt="image" src="https://github.com/user-attachments/assets/d99768d1-d4f8-48a0-b629-d589a6a4abb3" />
 
-<img width="352" height="350" alt="image" src="https://github.com/user-attachments/assets/2c605507-d5ba-45f5-9fd5-59f62b4c2b43" />
+<img width="356" height="360" alt="image" src="https://github.com/user-attachments/assets/7ba3de1e-2e7c-444a-a464-f946db640312" />
 
-<img width="413" height="385" alt="image" src="https://github.com/user-attachments/assets/36d60985-db6b-4d3f-8569-1d5772f659c7" />
+<img width="381" height="379" alt="image" src="https://github.com/user-attachments/assets/b401c6e5-f804-4834-b9a9-62416000b966" />
+
 
 
 # Electrical Circuit :
 
 <img width="320" height="340" alt="circuit (9)" src="https://github.com/user-attachments/assets/e123a5eb-0adf-42c5-be27-7e1ec3aa4ca1" />
 
-<img width="431" height="347" alt="image" src="https://github.com/user-attachments/assets/d98625d1-403c-4193-983a-c6a262131546" />
+<img width="485" height="376" alt="image" src="https://github.com/user-attachments/assets/14c980e4-14e7-451d-87a1-b7989ea3c7ec" />
 
 
 ---
