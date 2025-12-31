@@ -11,14 +11,14 @@ Controllable LED blink with transistors
 
 <img width="686" height="328" alt="image" src="https://github.com/user-attachments/assets/fa2a7f16-885d-452f-8866-75d27f85711c" />
 
+Here you can edit the resistor to control the frequency
+
 <img width="328" height="332" alt="image" src="https://github.com/user-attachments/assets/832a40b0-259e-4c6f-82d9-7f50af7b5cf4" />
 
 <img width="352" height="350" alt="image" src="https://github.com/user-attachments/assets/2c605507-d5ba-45f5-9fd5-59f62b4c2b43" />
 
 <img width="413" height="385" alt="image" src="https://github.com/user-attachments/assets/36d60985-db6b-4d3f-8569-1d5772f659c7" />
 
-
-Here you can edit the resistor to control the frequency
 
 # Electrical Circuit :
 
